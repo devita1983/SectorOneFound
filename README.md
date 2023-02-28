@@ -36,3 +36,4 @@ Consegui as coordenadas com as seguintes importações
 
 * Realizei algumas analises da imagem mas não o suficiente para dizer o que é. Não esta muito preciso! Preciso de mais tempo para aprender bibliotecas novas para analises e também de mais plotagem dessa imagem de diferentes maneiras para diferentes tipos de analises. 
 
+#### The libraries used in this project were sourced from https://mast.stsci.edu/tesscut/
